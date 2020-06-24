@@ -6,7 +6,7 @@
 for i in {1..20}
 do
 	# echo "Being ran 100 times:"
-	python main.py 5 1 1;
+	python finalproject.py 5 1 1;
 	# var=$(python calvinlast.py 0 1 1)
 	# if [ "var" == "Success!" ]
 	# then
